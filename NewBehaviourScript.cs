@@ -8,11 +8,6 @@ public class NewBehaviourScript : MonoBehaviour
     public string LinkedinURL;
     public string FacebookURL;   // Creating Public Strings Save URL's
     public string InstagramURL;
-    // Start is called before the first frame update
-    // Now I should Say Instructions.. Means Inputs...
-    // Update is called once per frame
-    // It's time to Paste Defined Functions in VOID UPDATE
-    // Save the script And Also I will provide the script... Check the Description...
     void Update()
     {
         GMAIL();
